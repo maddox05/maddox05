@@ -3,4 +3,6 @@
 
 > I'm currently working on a multitude of things, just trying to learn and be a better programmer💻. I work with frontend and backend, and my favorite language is python.
 
-Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any questions about any of my open source projects!
+Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any questions about any of my open source projects! 
+
+![](https://komarev.com/ghpvc/?username=maddox05)
