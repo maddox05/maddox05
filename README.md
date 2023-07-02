@@ -9,7 +9,7 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/maddox05)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/maddox05)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/maddox05)
-[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/maddox05)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/maddox05)
 
 ![](https://komarev.com/ghpvc/?username=maddox05)
 
