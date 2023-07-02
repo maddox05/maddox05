@@ -1,5 +1,6 @@
 # Hi, I'm Maddox! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRmMmY0ZDQyYWNjODU1MDI0ZDRiYzU1YjljZWRiYzRiNTMzZGFmNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/GNxRsDydcpcdywO7HH/giphy.gif" height="35px"/> <!-- cool duck -->
-<a href="https://github.com/maddox05"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=maddox05&theme=tokyonight&show_icons=true" align="right"/></a>
+<a href="https://github.com/maddox05"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=vision_friendly_dark" align="right"/></a>
+
 
 > I'm currently working on a multitude of things, just trying to learn and be a better programmer💻. I work with frontend and backend, and my favorite language is python.
 
@@ -18,13 +19,13 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 <details>
 <p align="center">
   <a href="https://github.com/maddox05">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddox05&theme=tokyonight" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddox05&theme=vision_friendly_dark" />
   </a>
   <a href="https://github.com/maddox05">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maddox05&hide_border=true&card_width=338&theme=tokyonight" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maddox05&theme=vision_friendly_dark&exclude={exclude}" />
   </a>
   <a href="https://github.com/maddox05">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=tokyonight" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=vision_friendly_dark" />
   </a>
   
 </p>
