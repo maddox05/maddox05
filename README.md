@@ -25,7 +25,7 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maddox05&theme=vision_friendly_dark&exclude={exclude}" />
   </a>
   <a href="https://github.com/maddox05">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=vision_friendly_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maddox05&theme=vision_friendly_dark&utcOffset=-4" />
   </a>
   
 </p>
