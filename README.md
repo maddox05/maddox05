@@ -11,6 +11,7 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/maddox05)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/maddox05)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/maddox05)
+[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/maddox05)
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/maddox05)
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maddox05)
