@@ -14,8 +14,8 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/maddox05)
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/maddox05)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maddox05)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/maddox05)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maddox05)
 
 <details>
 <p align="center">
