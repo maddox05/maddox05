@@ -2,9 +2,9 @@
 <a href="https://github.com/maddox05"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=vision_friendly_dark" width="400px" align="right"/></a>
 
 
-> I'm currently working on a multitude of things, just trying to learn and be a better programmer💻. I work with frontend and backend, and my favorite language is python.
+> I'm currently working on a multitude of things, just trying to learn and be a better programmer💻. I work with frontend and backend, and my favorite language is Python.
 
-Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any questions about any of my open source projects! 
+Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any questions about any of my open-source projects! 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/maddox05)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/maddox05)
@@ -18,6 +18,7 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maddox05)
 
 ### Backend
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/maddox05)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://github.com/maddox05)
 
 <details>
