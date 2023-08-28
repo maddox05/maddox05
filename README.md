@@ -6,15 +6,15 @@
 
 Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any questions about any of my open-source projects! 
 ### Languages
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/maddox05)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/maddox05)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/maddox05)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/maddox05)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)](https://github.com/maddox05)
+[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk)](https://github.com/maddox05)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/maddox05)
-[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/maddox05)
+[![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/maddox05)
 ### OS
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/maddox05)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows)](https://github.com/maddox05)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)](https://github.com/maddox05)
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/maddox05)
+[![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/maddox05)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/maddox05)
