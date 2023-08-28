@@ -25,6 +25,9 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/maddox05)
 [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/maddox05)
 
+![](./assets/profile-3d-dark.svg)
+
+
 <details>
 <p align="center">
   <a href="https://github.com/maddox05">
@@ -36,7 +39,6 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
   <a href="https://github.com/maddox05">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maddox05&theme=vision_friendly_dark&utcOffset=-4" />
   </a>
-  ![](./assets/profile-3d-dark.svg)
 
   
 </p>
