@@ -28,6 +28,11 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 ### Overview
 ![](./profile-3d-contrib/profile-night-view.svg)
 
+### My Websites
+- [**duckmath.org**](https://duckmath.org) - Popular Games Site
+- [**mtype.dev**](https://mtype.dev) - WPM speed test
+- [**maddox.page**](https://maddox.page) - Website About Me
+
 **📫 How to Reach me:**
 <p align="left">
   <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
