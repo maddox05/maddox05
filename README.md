@@ -30,8 +30,8 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 
 ### My Websites
 -  <a href = "https://duckmath.org"><img src ="https://duckmath.org/assets/img/goose.png" width ="30" height ="30"></a> [**duckmath.org**](https://duckmath.org) - Popular Games Site
-- <a href = "https://duckmath.org"><img src ="https://media.tenor.com/cvX1sxKs91gAAAAC/kick-him.gif" width ="30" height ="30"></a> [**mtype.dev**](https://mtype.dev) - WPM speed test
-- <a href = "https://duckmath.org"><img src ="https://duckmath.org/assets/img/goose.png" width ="30" height ="30"></a> [**maddox.page**](https://maddox.page) - Website About Me
+- <a href = "https://duckmath.org"><img src ="https://raw.githubusercontent.com/maddox05/maddox05/main/assets/380f1220-1479-4b6f-aac9-df0adc191945_bongo_cat_template.gif" width ="30" height ="30"></a> [**mtype.dev**](https://mtype.dev) - WPM speed test
+- <a href = "https://duckmath.org"><img src ="https://raw.githubusercontent.com/maddox05/maddox05/main/assets/jetbrains-toolbox-icon.png" width ="30" height ="30"></a> [**maddox.page**](https://maddox.page) - Website About Me
 
 **📫 How to Reach me:**
 <p align="left">
