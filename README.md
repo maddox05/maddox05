@@ -29,7 +29,7 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 ### My Websites
--  <a href = "https://duckmath.org"><img src ="./assets/img/goose.png" width ="30" height ="30"></a> [**duckmath.org**](https://duckmath.org) - Popular Games Site
+-  <a href = "https://duckmath.org"><img src ="./assets/goose.png" width ="30" height ="30"></a> [**duckmath.org**](https://duckmath.org) - Popular Games Site
 - <a href = "https://duckmath.org"><img src ="./assets/380f1220-1479-4b6f-aac9-df0adc191945_bongo_cat_template.gif" width ="30" height ="30"></a> [**mtype.dev**](https://mtype.dev) - WPM speed test
 - <a href = "https://duckmath.org"><img src ="./assets/jetbrains-toolbox-icon.png" width ="30" height ="30"></a> [**maddox.page**](https://maddox.page) - Website About Me
 
