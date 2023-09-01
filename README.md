@@ -1,4 +1,4 @@
-# Hi, I'm Maddox! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjRmMmY0ZDQyYWNjODU1MDI0ZDRiYzU1YjljZWRiYzRiNTMzZGFmNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/GNxRsDydcpcdywO7HH/giphy.gif" height="35px"/> <!-- cool duck -->
+# Hi, I'm Maddox! <img src="./assets/birb.gif" height="35px"/> <!-- cool duck -->
 <a href="https://github.com/maddox05"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=vision_friendly_dark" width="400px" align="right"/></a>
 
 
