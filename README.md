@@ -29,14 +29,14 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 ![](./profile-3d-contrib/profile-night-view.svg)
 
 ### My Websites
--  <a href = "https://duckmath.org"><img src ="https://duckmath.org/assets/img/goose.png" width ="30" height ="30"></a> [**duckmath.org**](https://duckmath.org) - Popular Games Site
-- <a href = "https://duckmath.org"><img src ="https://raw.githubusercontent.com/maddox05/maddox05/main/assets/380f1220-1479-4b6f-aac9-df0adc191945_bongo_cat_template.gif" width ="30" height ="30"></a> [**mtype.dev**](https://mtype.dev) - WPM speed test
-- <a href = "https://duckmath.org"><img src ="https://raw.githubusercontent.com/maddox05/maddox05/main/assets/jetbrains-toolbox-icon.png" width ="30" height ="30"></a> [**maddox.page**](https://maddox.page) - Website About Me
+-  <a href = "https://duckmath.org"><img src ="./assets/img/goose.png" width ="30" height ="30"></a> [**duckmath.org**](https://duckmath.org) - Popular Games Site
+- <a href = "https://duckmath.org"><img src ="./assets/380f1220-1479-4b6f-aac9-df0adc191945_bongo_cat_template.gif" width ="30" height ="30"></a> [**mtype.dev**](https://mtype.dev) - WPM speed test
+- <a href = "https://duckmath.org"><img src ="./assets/jetbrains-toolbox-icon.png" width ="30" height ="30"></a> [**maddox.page**](https://maddox.page) - Website About Me
 
 **📫 How to Reach me:**
 <p align="left">
-  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-  <a href="https://www.linkedin.com/in/maddox-schmidlkofer-2793a427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Twitter" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/maddox-schmidlkofer-2793a427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Linkedin" height="30" width="30" /></a>
   <a href="mailto:maddoxpublic@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 </p>
 
