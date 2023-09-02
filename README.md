@@ -17,8 +17,8 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 [![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/maddox05)
 
 ### Databases
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/maddox05)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://github.com/maddox05)
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/maddox05)
 
 ### CI/CD
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/maddox05)
