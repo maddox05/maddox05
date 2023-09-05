@@ -30,8 +30,8 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 
 ### My Websites
 -  <a href = "https://duckmath.org"><img src ="./assets/goose.png" width ="30" height ="30"></a> [**duckmath.org**](https://duckmath.org) - Popular Games Site
-- <a href = "https://duckmath.org"><img src ="./assets/380f1220-1479-4b6f-aac9-df0adc191945_bongo_cat_template.gif" width ="30" height ="30"></a> [**mtype.dev**](https://mtype.dev) - WPM speed test ⚠️(WIP)
 - <a href = "https://maddox.fun"><img src ="./assets/minecraft.png" width ="30" height ="30"></a> [**maddox.fun**](https://mtype.dev) - Fun Chat Room ⚠️(WIP)
+- <a href = "https://duckmath.org"><img src ="./assets/380f1220-1479-4b6f-aac9-df0adc191945_bongo_cat_template.gif" width ="30" height ="30"></a> [**mtype.dev**](https://mtype.dev) - WPM speed test ⚠️(WIP)
 <!-- 
 - <a href = "https://duckmath.org"><img src ="./assets/jetbrains-toolbox-icon.png" width ="30" height ="30"></a> [**maddox.page**](https://maddox.page) - Website About Me 
 - <a href one for my chat app></a>
