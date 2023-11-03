@@ -1,6 +1,6 @@
 # Hi, I'm Maddox! <a href = "."><img src ="./assets/birb.gif" height ="35px"></a> <!-- cool duck -->
 
-<a href="https://github.com/maddox05"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=dark" width="400px" align="right"/></a>
+<a href="https://github.com/maddox05"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=discord_old_blurple" width="400px" align="right"/></a>
 
 
 > I'm currently working on a multitude of things, just trying to learn and be a better programmer💻. I work with frontend and backend, and my favorite language is Python.
@@ -51,13 +51,13 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 <details>
 <p align="center">
   <a href="https://github.com/maddox05">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddox05&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maddox05&theme=discord_old_blurple" />
   </a>
   <a href="https://github.com/maddox05">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maddox05&theme=dark&exclude={exclude}" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maddox05&theme=discord_old_blurple&exclude={exclude}" />
   </a>
   <a href="https://github.com/maddox05">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maddox05&theme=dark&utcOffset=-4" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maddox05&theme=discord_old_blurple&utcOffset=-4" />
   </a>
 
 
