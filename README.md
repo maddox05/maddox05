@@ -41,7 +41,7 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 
 **📫 How to Reach me:**
 <p align="left">
-  <a href="https://www.instagram.com/magicmaddox1/" target="blank"><img align="center" src="./assets/insta.png" alt="Instagram" height="57" width="57" /></a>
+  <a href="https://www.instagram.com/magicmaddox1/" target="blank"><img align="center" src="./assets/insta.png" alt="Instagram" height="55" width="55" /></a>
   <a href="https://www.linkedin.com/in/maddox-schmidlkofer-2793a427a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="Linkedin" height="60" width="60" /></a>
   <a href="mailto:maddoxpublic@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="60" width="60" /></a>
   <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="Twitter" height="60" width="60" /></a>
