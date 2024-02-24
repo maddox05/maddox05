@@ -60,7 +60,6 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maddox05&theme=discord_old_blurple&utcOffset=-4" />
   </a>
 
-
   
 </p>
 </details>
