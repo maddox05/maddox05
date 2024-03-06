@@ -9,8 +9,8 @@ Please <a href="mailto:maddoxpublic@gmail.com">Contact Me</a> if you have any qu
 ### Languages
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/maddox05)
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)](https://github.com/maddox05)
-[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk)](https://github.com/maddox05)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/maddox05)
+[![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk)](https://github.com/maddox05)
 [![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/maddox05)
 ### OS
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows)](https://github.com/maddox05)
