@@ -1,4 +1,4 @@
-# Hi, I'm Maddox! <a href = "."><img src ="./assets/birb.gif" height ="35px"></a> <!-- cool duck -->
+# Hi, I'm Maddox! <a href = "."></a> <!-- cool duck -->
 
 <a href="https://github.com/maddox05"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=maddox05&theme=discord_old_blurple" width="400px" align="right"/></a>
 
